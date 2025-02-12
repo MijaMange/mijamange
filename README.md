@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mija Mange – Front-End Developer in Training 💻✨
+# 👋 Hi, I'm Mija Mange – Front-End Developer in training ✨
 
 Welcome to my GitHub! I'm currently studying to become a **Front-End Developer**, driven by a passion for creating modern, user-friendly, and aesthetically pleasing web experiences. I love working with **HTML, CSS, TypeScript, and JavaScript**, with a strong focus on **UI/UX design**.
 
