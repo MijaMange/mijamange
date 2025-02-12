@@ -23,7 +23,7 @@ Here are some of my latest projects:
 ## Let's Connect!
 I'm always open to new opportunities, collaborations, and discussions!  
 💌 **Email:** [mija.hedborgmellander@medieinstitutet.se]  
-💼 **LinkedIn:** [linkedin.com/in/mijamange]  
+💼 **LinkedIn:** [www.linkedin.com/in/mijamange]  
 🌐 **Portfolio:** [mijamange.dev](#) *(coming soon!)
 
 ---
