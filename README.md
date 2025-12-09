@@ -12,15 +12,15 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
-### 💻 Languages  
+### Languages  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚛️ Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,7 +29,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🛠️ Tools & Environment  
+### Tools & Environment  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -39,7 +39,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-### 🎨 Design & UX  
+### Design & UX  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
@@ -47,7 +47,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 ---
 
-## 🚀 Selected Projects  
+## Selected Projects  
 
 - [🎭 **Anna Skyhag Portfolio**](https://github.com/MijaMange/anna-skyhag) — Elegant React portfolio for an actress, focused on aesthetic expression and interactive storytelling.  
 - [🌿 **The Virtual Zoo**](https://github.com/MijaMange/the-zoo) — Educational React app highlighting endangered species through UI interactions and real-time updates.  
@@ -55,7 +55,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 ---
 
-## 🌸 Core Values  
+## Core Values  
 🧩 Design with purpose  
 ⚡ Code with intention  
 🌱 Learn with curiosity  
@@ -63,7 +63,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 ---
 
-## 💬 Connect  
+## Connect  
 📫 **Email:** [mija.hedborgmellander@medieinstitutet.se](mailto:mija.hedborgmellander@medieinstitutet.se)  
 💼 **LinkedIn:** [linkedin.com/in/mijahedborgmellander](https://www.linkedin.com/in/mijahedborgmellander)  
 🌐 **Portfolio:** [mijamange.com](https://mijamange.com)  
