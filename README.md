@@ -1,10 +1,12 @@
 # Mija
 
- *Front-End Developer student at Medieinstitutet, Stockholm. Graduating in June 2026*  
+
 --------> **Currently seeking a Front-End Developer internship (LIA) for Spring 2026.**
 ---
 **Front-End Development | TypeScript | React | UI/UX Design | Supabase | Express**
-
+ 
+ *Front-End Developer student at Medieinstitutet, Stockholm. Graduating in June 2026*  
+ 
 Front-end development is where **design and logic meet** — and that’s where I thrive.  
 I build responsive, expressive, and user-focused interfaces with a passion for **clarity, form and emotional impact**.  
 Currently exploring how technology, animation, and storytelling can come together to create seamless digital experiences.
