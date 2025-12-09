@@ -1,7 +1,7 @@
 # Mija
 
 
---------> **Currently seeking a Front-End Developer internship (LIA) for Spring 2026.**
+--------> **Currently seeking internship for Spring 2026.**
 ---
 **Front-End Development | TypeScript | React | UI/UX Design | Supabase | Express**
  
