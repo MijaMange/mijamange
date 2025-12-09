@@ -1,4 +1,4 @@
-# ✨ Mija Mange — Front-End Developer & Visual Creator  
+# Mija Mange — Front-End Developer & Visual Creator  
 
 **Front-End Development | TypeScript | React | UI/UX Design | Supabase | Express**
 
