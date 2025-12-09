@@ -1,4 +1,5 @@
-# Mija Mange 
+# Mija
+- **Currently seeking a Front-End Developer internship (LIA) for Spring 2026.** --------------------------------
 
 **Front-End Development | TypeScript | React | UI/UX Design | Supabase | Express**
 
@@ -8,7 +9,6 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 - *Front-End Developer student at Medieinstitutet, Stockholm*  
 - Always learning. Always refining. Always designing with intent.  
-- **Currently seeking a Front-End Developer internship (LIA) for Spring 2026.**
 
 ---
 
