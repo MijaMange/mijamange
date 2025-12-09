@@ -51,10 +51,7 @@ Currently exploring how technology, animation, and storytelling can come togethe
 ---
 
 ## Core Values  
-- Design with purpose  
-- Code with intention  
-- Learn with curiosity  
-- Build with heart  
+Design with purpose, code with intention, learn with curiosity and build with heart  
 
 ---
 
