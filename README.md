@@ -49,7 +49,6 @@ Currently exploring how technology, animation, and storytelling can come togethe
 
 ## 🚀 Selected Projects  
 
-- [🛒 **MijaShop**](https://github.com/MijaMange/webshop-project) — Full-stack e-commerce site with authentication, PayPal integration and responsive design.  
 - [🎭 **Anna Skyhag Portfolio**](https://github.com/MijaMange/anna-skyhag) — Elegant React portfolio for an actress, focused on aesthetic expression and interactive storytelling.  
 - [🌿 **The Virtual Zoo**](https://github.com/MijaMange/the-zoo) — Educational React app highlighting endangered species through UI interactions and real-time updates.  
 - [💼 **Web Agency**](https://github.com/MijaMange/fiktiv-webbyra) — Concept site for a fictional agency, exploring layout, branding and TypeScript structure.  
