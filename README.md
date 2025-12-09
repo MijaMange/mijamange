@@ -56,10 +56,10 @@ Currently exploring how technology, animation, and storytelling can come togethe
 ---
 
 ## Connect  
-📫 **Email:** [mija.hedborgmellander@medieinstitutet.se](mailto:mija.hedborgmellander@medieinstitutet.se)  
-💼 **LinkedIn:** [linkedin.com/in/mijahedborgmellander](https://www.linkedin.com/in/mijahedborgmellander)  
-🌐 **Portfolio:** [mijamange.com](https://mijamange.com)  
+ **Email:** [mija.hedborgmellander@medieinstitutet.se](mailto:mija.hedborgmellander@medieinstitutet.se)  
+ **LinkedIn:** [linkedin.com/in/mijahedborgmellander](https://www.linkedin.com/in/mijahedborgmellander)  
+ **Portfolio:** [mijamange.com](https://mijamange.com)  
 
 ---
 
-✨ *Design as thought. Code as expression. Always evolving.*
+ *Design as thought. Code as expression. Always evolving.*
